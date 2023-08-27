@@ -1,0 +1,25 @@
+﻿using System;
+
+namespace _08._Math_Power
+{
+	internal class Program
+	{
+		static void Main(string[] args)
+		{
+			double @base = double.Parse(Console.ReadLine());
+			double power = double.Parse(Console.ReadLine());
+			double result = mathPow(@base, power);
+			Console.WriteLine(result);
+		}
+
+		static double mathPow(double @base, double power)	
+		{
+			double result = 1;
+			for (int i = 0; i < power; i++)
+			{
+				result *= @base;
+			}
+			return result;
+		}
+	}
+}

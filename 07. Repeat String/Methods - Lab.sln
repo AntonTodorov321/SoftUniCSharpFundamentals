@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Repeat String", "Methods - Lab2022\07. Repeat String.csproj", "{B596E021-C0E8-4579-9155-5B2A22132576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Calculate Rectangle Area", "06. Calculate Rectangle Area\06. Calculate Rectangle Area.csproj", "{E0834D57-36BC-48F0-A250-76F89A463379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Math Power", "08. Math Power\08. Math Power.csproj", "{7EE7A632-7BDC-4ED0-8DF7-9D97154FC3C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Greater of Two Values", "09. Greater of Two Values\09. Greater of Two Values.csproj", "{A5CEA7A4-541E-463C-8B65-35E5172A4820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B596E021-C0E8-4579-9155-5B2A22132576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B596E021-C0E8-4579-9155-5B2A22132576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B596E021-C0E8-4579-9155-5B2A22132576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B596E021-C0E8-4579-9155-5B2A22132576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0834D57-36BC-48F0-A250-76F89A463379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0834D57-36BC-48F0-A250-76F89A463379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0834D57-36BC-48F0-A250-76F89A463379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0834D57-36BC-48F0-A250-76F89A463379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE7A632-7BDC-4ED0-8DF7-9D97154FC3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE7A632-7BDC-4ED0-8DF7-9D97154FC3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE7A632-7BDC-4ED0-8DF7-9D97154FC3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE7A632-7BDC-4ED0-8DF7-9D97154FC3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CEA7A4-541E-463C-8B65-35E5172A4820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CEA7A4-541E-463C-8B65-35E5172A4820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CEA7A4-541E-463C-8B65-35E5172A4820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CEA7A4-541E-463C-8B65-35E5172A4820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77DCA99A-E272-4E1F-AB6E-E834B625D9D0}
+	EndGlobalSection
+EndGlobal
