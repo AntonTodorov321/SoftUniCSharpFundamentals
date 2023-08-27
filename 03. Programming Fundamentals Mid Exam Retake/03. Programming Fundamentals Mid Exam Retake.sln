@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Counter-Strike", "01. Counter-Strike\01. Counter-Strike.csproj", "{7908C775-07F7-4C47-8A6D-6F92A7E6D0D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Shoot for the Win", "02. Shoot for the Win\02. Shoot for the Win.csproj", "{25FEB9C2-3A69-4BA3-8D81-EA733DDAB798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7908C775-07F7-4C47-8A6D-6F92A7E6D0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7908C775-07F7-4C47-8A6D-6F92A7E6D0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7908C775-07F7-4C47-8A6D-6F92A7E6D0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7908C775-07F7-4C47-8A6D-6F92A7E6D0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25FEB9C2-3A69-4BA3-8D81-EA733DDAB798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25FEB9C2-3A69-4BA3-8D81-EA733DDAB798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25FEB9C2-3A69-4BA3-8D81-EA733DDAB798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25FEB9C2-3A69-4BA3-8D81-EA733DDAB798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD7C8F09-5D64-4341-A04D-B2FC453DF52A}
+	EndGlobalSection
+EndGlobal
