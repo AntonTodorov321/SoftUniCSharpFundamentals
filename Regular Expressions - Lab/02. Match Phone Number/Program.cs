@@ -1,0 +1,17 @@
+﻿using System;
+using System.Text.RegularExpressions;
+
+namespace _02._Match_Phone_Number
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			string phoneNumbers = Console.ReadLine();
+			string pattern = @"\+359(?<separator>[ -])2\k<separator>[0-9]{3}\k<separator>[0-9]{4}\b";
+			MatchCollection matches = Regex.Matches(phoneNumbers, pattern);
+
+			Console.WriteLine(string.Join(", ",matches));
+		}
+	}
+}
